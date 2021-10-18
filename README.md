@@ -1,1 +1,1 @@
-# linear_algebra
+# 선형대수 기초 강의
